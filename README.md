@@ -30,4 +30,4 @@ mvn spring-boot:run
 
 ## Run Spring Boot ApplicationTests
 The tests can be executed in IJ IDE by simply clicking on the ApplicationTests and Debug 'ApplicationTests'
-There is a total of 5 test cases proving unit test coverage.
+There is a total of 6 test cases proving unit test coverage.
