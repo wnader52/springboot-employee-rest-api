@@ -48,8 +48,8 @@ public class ApplicationTests {
 		employee.setLocation("Dover, NH");
 		employee.setDepartment("HR Department");
 		employee.setJobTitle("Director of HR");
-		employee.setBirthDate(new Date(1991, 04, 10, 0, 0));
-		employee.setStartDate(new Date(2024, 02, 02, 0, 0));
+		employee.setBirthDate("2000-04-04");
+		employee.setStartDate("2024-01-02");
 		employee.setManagerReporting("Steve Weindelly");
 
 		ResponseEntity<Employee> postResponse = restTemplate.postForEntity(getRootUrl() + "/api/employees", employee, Employee.class);
@@ -66,8 +66,8 @@ public class ApplicationTests {
 		employee.setLocation("Rochester, NH");
 		employee.setDepartment("IT Department");
 		employee.setJobTitle("Solutions Architect");
-		employee.setBirthDate(new Date(1990, 02, 02, 0, 0));
-		employee.setStartDate(new Date(2023, 06, 01, 0, 0));
+		employee.setBirthDate("2000-03-03");
+		employee.setStartDate("2023-09-09");
 		employee.setManagerReporting("Danny Bear");
 
 		postResponse = restTemplate.postForEntity(getRootUrl() + "/api/employees", employee, Employee.class);
@@ -84,8 +84,8 @@ public class ApplicationTests {
 		employee.setLocation("Nashua, NH");
 		employee.setDepartment("IT Department");
 		employee.setJobTitle("Software Developer");
-		employee.setBirthDate(new Date(1994, 02, 02, 0, 0));
-		employee.setStartDate(new Date(2023, 07, 10, 0, 0));
+		employee.setBirthDate("2001-08-08");
+		employee.setStartDate("2024-02-02");
 		employee.setManagerReporting("Danny Bear");
 
 		postResponse = restTemplate.postForEntity(getRootUrl() + "/api/employees", employee, Employee.class);
@@ -121,8 +121,8 @@ public class ApplicationTests {
 		employee.setLocation("Manassas, VA");
 		employee.setDepartment("IT Department");
 		employee.setJobTitle("Software Tester");
-		employee.setBirthDate(new Date(1995, 05, 12, 0, 0));
-		employee.setStartDate(new Date(2023, 03, 03, 0, 0));
+		employee.setBirthDate("2001-06-06");
+		employee.setStartDate("2025-09-09");
 		employee.setManagerReporting("Shankar Nirayan");
 
 		ResponseEntity<Employee> postResponse = restTemplate.postForEntity(getRootUrl() + "/api/employees", employee, Employee.class);
