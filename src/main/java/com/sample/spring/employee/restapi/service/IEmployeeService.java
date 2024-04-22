@@ -22,5 +22,5 @@ public interface IEmployeeService {
   // Delete operation
   void deleteEmployee(Long employeeId);
 
-  void initializeDB(boolean flag);
+  void initializeDB();
 }

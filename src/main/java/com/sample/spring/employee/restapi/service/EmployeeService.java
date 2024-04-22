@@ -4,6 +4,9 @@ import java.util.*;
 
 import com.sample.spring.employee.restapi.entity.Employee;
 import com.sample.spring.employee.restapi.repository.EmployeeRepository;
+
+import jakarta.annotation.PostConstruct;
+
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Service;
 
@@ -87,78 +90,85 @@ public class EmployeeService implements IEmployeeService {
     }
 
     @Override
-    public void initializeDB(boolean flag){
-        if(flag){
-            List<Employee> employees = new ArrayList<>();
-            Employee employee = new Employee();
-            employee.setFirstName("Jim");
-            employee.setLastName("Bob");
-            employee.setEmailAddress("jim.bob@sampleapi.com");
-            employee.setLocation("Dover, NH");
-            employee.setDepartment("IT Department");
-            employee.setPhone("603-123-3232");
-            employee.setStartDate("2014-01-02");
-            employee.setBirthDate("2000-01-03");
-            employee.setJobTitle("Software Developer");
-            employee.setManagerReporting("Larry Johnson");
-            employees.add(employee);
+    @PostConstruct
+    public void initializeDB(){
+        Employee employee = new Employee();
+        employee.setFirstName("Jim");
+        employee.setLastName("Bob");
+        employee.setEmailAddress("jim.bob@sampleapi.com");
+        employee.setLocation("Dover, NH");
+        employee.setDepartment("IT Department");
+        employee.setPhone("603-123-3232");
+        employee.setStartDate("2014-01-02");
+        employee.setBirthDate("2000-01-03");
+        employee.setJobTitle("Software Developer");
+        employee.setManagerReporting("Larry Johnson");
+        employeeRepository.save(employee);
 
-            employee = new Employee();
-            employee.setFirstName("Mark");
-            employee.setLastName("Baringer");
-            employee.setEmailAddress("mark.baringer@sampleapi.com");
-            employee.setLocation("Durham, NH");
-            employee.setDepartment("HR Department");
-            employee.setPhone("603-232-3232");
-            employee.setStartDate("2023-09-10");
-            employee.setBirthDate("2001-09-29");
-            employee.setJobTitle("HR Director");
-            employee.setManagerReporting("Larry Johnson");
-            employees.add(employee);
+        employee = new Employee();
+        employee.setFirstName("Mark");
+        employee.setLastName("Baringer");
+        employee.setEmailAddress("mark.baringer@sampleapi.com");
+        employee.setLocation("Durham, NH");
+        employee.setDepartment("HR Department");
+        employee.setPhone("603-232-3232");
+        employee.setStartDate("2023-09-10");
+        employee.setBirthDate("2001-09-29");
+        employee.setJobTitle("HR Director");
+        employee.setManagerReporting("Larry Johnson");
+        employeeRepository.save(employee);
 
-            employee = new Employee();
-            employee.setFirstName("Tim");
-            employee.setLastName("Cane");
-            employee.setEmailAddress("tim.cane@sampleapi.com");
-            employee.setLocation("Rochester, NH");
-            employee.setDepartment("Research & Development Department");
-            employee.setPhone("603-783-8812");
-            employee.setStartDate("1998-01-02");
-            employee.setBirthDate("2024-03-3");
-            employee.setJobTitle("Software Tester");
-            employee.setManagerReporting("Larry Johnson");
-            employees.add(employee);
+        employee = new Employee();
+        employee.setFirstName("Tim");
+        employee.setLastName("Cane");
+        employee.setEmailAddress("tim.cane@sampleapi.com");
+        employee.setLocation("Rochester, NH");
+        employee.setDepartment("Research & Development Department");
+        employee.setPhone("603-783-8812");
+        employee.setStartDate("1998-01-02");
+        employee.setBirthDate("2024-03-3");
+        employee.setJobTitle("Software Tester");
+        employee.setManagerReporting("Larry Johnson");
+        employeeRepository.save(employee);
 
-            employee = new Employee();
-            employee.setFirstName("Mike");
-            employee.setLastName("Darinson");
-            employee.setEmailAddress("mike.darinson@sampleapi.com");
-            employee.setLocation("Manchester, NH");
-            employee.setDepartment("Research & Development Department");
-            employee.setPhone("603-783-9090");
-            employee.setStartDate("2023-10-10");
-            employee.setBirthDate("2023-08-08");
-            employee.setJobTitle("Software Architect");
-            employee.setManagerReporting("Larry Johnson");
-            employees.add(employee);
+        employee = new Employee();
+        employee.setFirstName("Mike");
+        employee.setLastName("Darinson");
+        employee.setEmailAddress("mike.darinson@sampleapi.com");
+        employee.setLocation("Manchester, NH");
+        employee.setDepartment("Research & Development Department");
+        employee.setPhone("603-783-9090");
+        employee.setStartDate("2023-10-10");
+        employee.setBirthDate("2023-08-08");
+        employee.setJobTitle("Software Architect");
+        employee.setManagerReporting("Larry Johnson");
+        employeeRepository.save(employee);
 
-            employee = new Employee();
-            employee.setFirstName("Derrick");
-            employee.setLastName("Jeeter");
-            employee.setEmailAddress("derrick.jeeter@sampleapi.com");
-            employee.setLocation("Manchester, NH");
-            employee.setDepartment("Research & Development Department");
-            employee.setPhone("603-876-9090");
-            employee.setStartDate("2023-10-11");
-            employee.setBirthDate("2023-08-03");
-            employee.setJobTitle("Software Architect");
-            employee.setManagerReporting("Larry Johnson");
-            employees.add(employee);
+        employee = new Employee();
+        employee.setFirstName("Derrick");
+        employee.setLastName("Jeeter");
+        employee.setEmailAddress("derrick.jeeter@sampleapi.com");
+        employee.setLocation("Manchester, NH");
+        employee.setDepartment("Research & Development Department");
+        employee.setPhone("603-876-9090");
+        employee.setStartDate("2023-10-11");
+        employee.setBirthDate("2000-06-03");
+        employee.setJobTitle("Software Architect");
+        employee.setManagerReporting("Larry Johnson");
+        employeeRepository.save(employee);
 
-            for (var worker: employees) {
-                this.createEmployee(worker);
-            }
-        }
+        employee = new Employee();
+        employee.setFirstName("Cara");
+        employee.setLastName("Stephenson");
+        employee.setEmailAddress("Cara.Stephenson@sampleapi.com");
+        employee.setLocation("Durham, NH");
+        employee.setDepartment("Sales & Marketing");
+        employee.setPhone("603-453-5656");
+        employee.setStartDate("2024-01-11");
+        employee.setBirthDate("2000-08-03");
+        employee.setJobTitle("Sales Agent");
+        employee.setManagerReporting("Ken Stylind");
+        employeeRepository.save(employee);
     }
 }
 

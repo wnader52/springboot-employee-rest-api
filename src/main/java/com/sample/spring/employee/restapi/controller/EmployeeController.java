@@ -41,13 +41,14 @@ public class EmployeeController {
     return employeeService.fetchEmployees();
   }
 
+
   /**
    * Fetch employee by Id
    * @param employeeId
    * @return
    */
-  @GetMapping("/employees/{id}")
-  public ResponseEntity<Employee> fetchEmployeeById(@PathVariable("id") Long employeeId) throws ResourceNotFoundException {
+  @GetMapping(value = "/employees/{employeeId}", produces = "application/json")
+  public ResponseEntity<Employee> fetchEmployeeById(@PathVariable(required=true) Long employeeId) throws ResourceNotFoundException {
     Employee employee = employeeService.fetchEmployeeById(employeeId)
                     .orElseThrow(() -> new ResourceNotFoundException("Employee (" + employeeId + ") not found"));
     return ResponseEntity.ok().body(employee);
@@ -58,12 +59,12 @@ public class EmployeeController {
    * @param initFlag
    * @return void
    */
-  @PostMapping("/employees/initializeEmployees/{flag}")
-  public String initializeDB(@PathVariable("flag") boolean initFlag)
-  {
-    employeeService.initializeDB(initFlag);
-    return "Database initialized with data successfully";
-  }
+  // @PostMapping("/employees/initializeEmployees/{flag}")
+  // public String initializeDB(@PathVariable("flag") boolean initFlag)
+  // {
+  //   employeeService.initializeDB(initFlag);
+  //   return "Database initialized with data successfully";
+  // }
 
   /**
    * Add an employee object to the database
@@ -101,10 +102,11 @@ public class EmployeeController {
    * @return String
    */
   @DeleteMapping("/employees/{id}")
-  public String deleteEmployee(@PathVariable("id") Long employeeId) throws  ResourceNotFoundException {
+  public ResponseEntity<String> deleteEmployee(@PathVariable("id") Long employeeId) throws  ResourceNotFoundException {
     Employee employee = employeeService.fetchEmployeeById(employeeId)
                     .orElseThrow(() -> new ResourceNotFoundException("Employee (" + employeeId + ") not found"));
     employeeService.deleteEmployee(employeeId);
-    return "Employee (" + employeeId + ") deleted successfully";
+    String result = "Employee (" + employeeId + ") deleted successfully";
+    return ResponseEntity.ok().body(result);
   }
 }
