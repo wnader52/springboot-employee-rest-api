@@ -55,6 +55,18 @@
         <mxCell id="NnL7JSWlf4hrcEAEEY_L-20" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://symbols.getvecta.com/stencil_28/6_application-gateway.ab007e631b.png;" vertex="1" parent="1">
           <mxGeometry x="990" y="423.12" width="96.88" height="96.88" as="geometry" />
         </mxCell>
+        <mxCell id="NnL7JSWlf4hrcEAEEY_L-21" value="" style="endArrow=classic;startArrow=classic;html=1;rounded=0;strokeWidth=2;strokeColor=#009900;" edge="1" parent="1" source="NnL7JSWlf4hrcEAEEY_L-19">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1240.69" y="710" as="sourcePoint" />
+            <mxPoint x="1040.0025" y="520" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="NnL7JSWlf4hrcEAEEY_L-22" value="" style="endArrow=classic;html=1;rounded=0;exitX=-0.012;exitY=0.44;exitDx=0;exitDy=0;exitPerimeter=0;strokeWidth=2;strokeColor=#009900;" edge="1" parent="1" source="NnL7JSWlf4hrcEAEEY_L-14">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1040" y="849" as="sourcePoint" />
+            <mxPoint x="1040" y="850" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
