@@ -55,13 +55,16 @@
         <mxCell id="NnL7JSWlf4hrcEAEEY_L-20" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://symbols.getvecta.com/stencil_28/6_application-gateway.ab007e631b.png;" vertex="1" parent="1">
           <mxGeometry x="1055" y="503.12" width="96.88" height="96.88" as="geometry" />
         </mxCell>
-        <mxCell id="NnL7JSWlf4hrcEAEEY_L-21" value="" style="endArrow=classic;startArrow=classic;html=1;rounded=0;strokeWidth=2;strokeColor=#009900;" edge="1" parent="1" source="NnL7JSWlf4hrcEAEEY_L-19">
+        <mxCell id="NnL7JSWlf4hrcEAEEY_L-21" value="" style="endArrow=classic;startArrow=classic;html=1;rounded=0;strokeWidth=3;strokeColor=#009900;dashed=1;" edge="1" parent="1" source="NnL7JSWlf4hrcEAEEY_L-19">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="1305.69" y="790" as="sourcePoint" />
             <mxPoint x="1105.0025" y="600" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="1105" y="900" />
+            </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="NnL7JSWlf4hrcEAEEY_L-22" value="" style="endArrow=classic;html=1;rounded=0;exitX=-0.012;exitY=0.44;exitDx=0;exitDy=0;exitPerimeter=0;strokeWidth=2;strokeColor=#009900;" edge="1" parent="1">
+        <mxCell id="NnL7JSWlf4hrcEAEEY_L-22" value="" style="endArrow=classic;html=1;rounded=0;exitX=-0.012;exitY=0.44;exitDx=0;exitDy=0;exitPerimeter=0;strokeWidth=3;strokeColor=#009900;dashed=1;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="1681.49" y="850.4000000000001" as="sourcePoint" />
             <mxPoint x="1103.53" y="850" as="targetPoint" />
