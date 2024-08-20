@@ -478,6 +478,12 @@
         <mxCell id="fEnQe29Ze3wGFFc-cCU1-31" value="&lt;span style=&quot;font-size: 18px;&quot;&gt;&lt;b&gt;Geo&lt;/b&gt;&lt;/span&gt;&lt;div&gt;&lt;span style=&quot;font-size: 18px;&quot;&gt;&lt;b&gt;Replication&lt;/b&gt;&lt;/span&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="-460" y="760" width="140" height="48" as="geometry" />
         </mxCell>
+        <mxCell id="fEnQe29Ze3wGFFc-cCU1-32" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://www.devprojournal.com/wp-content/uploads/2021/10/dynatrace-logo.png;" vertex="1" parent="1">
+          <mxGeometry x="870" y="1045.31" width="88.64" height="88.64" as="geometry" />
+        </mxCell>
+        <mxCell id="fEnQe29Ze3wGFFc-cCU1-33" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://www.devprojournal.com/wp-content/uploads/2021/10/dynatrace-logo.png;" vertex="1" parent="1">
+          <mxGeometry x="860" y="362" width="90" height="90" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
