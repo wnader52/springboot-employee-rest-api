@@ -4,10 +4,10 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="7c3789c024ecab99-81" value="&lt;b&gt;&lt;font color=&quot;#000000&quot;&gt;Region-2 AKS Cluster&lt;/font&gt;&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;comic=0;strokeColor=#036897;strokeWidth=2;fillColor=none;fontFamily=Verdana;fontSize=28;fontColor=#6881B3;align=center;arcSize=11;verticalAlign=top;" parent="1" vertex="1">
+        <mxCell id="7c3789c024ecab99-81" value="&lt;b&gt;&lt;font color=&quot;#000000&quot;&gt;Central AKS Cluster&lt;/font&gt;&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;comic=0;strokeColor=#036897;strokeWidth=2;fillColor=none;fontFamily=Verdana;fontSize=28;fontColor=#6881B3;align=center;arcSize=11;verticalAlign=top;" parent="1" vertex="1">
           <mxGeometry x="-520" y="1030" width="1725" height="330" as="geometry" />
         </mxCell>
-        <mxCell id="7c3789c024ecab99-79" value="&lt;font color=&quot;#000000&quot;&gt;&lt;b&gt;Region-1 AKS Cluster&lt;/b&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;comic=0;strokeColor=#036897;strokeWidth=2;fillColor=none;fontFamily=Verdana;fontSize=28;fontColor=#6881B3;align=center;arcSize=11;verticalAlign=top;" parent="1" vertex="1">
+        <mxCell id="7c3789c024ecab99-79" value="&lt;font color=&quot;#000000&quot;&gt;&lt;b&gt;East AKS Cluster&lt;/b&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;comic=0;strokeColor=#036897;strokeWidth=2;fillColor=none;fontFamily=Verdana;fontSize=28;fontColor=#6881B3;align=center;arcSize=11;verticalAlign=top;" parent="1" vertex="1">
           <mxGeometry x="-520" y="340" width="1725" height="340" as="geometry" />
         </mxCell>
         <mxCell id="NnL7JSWlf4hrcEAEEY_L-2" value="" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
