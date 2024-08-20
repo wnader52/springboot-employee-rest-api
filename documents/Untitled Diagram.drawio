@@ -529,6 +529,12 @@
             <mxPoint x="-138" y="652" as="targetPoint" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="fEnQe29Ze3wGFFc-cCU1-49" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://www.loginradius.com/blog/static/452f4d9f7cb358e3d6224ed3aba3d5d6/03979/Istio.png;" vertex="1" parent="1">
+          <mxGeometry x="690" y="353" width="121.58" height="81" as="geometry" />
+        </mxCell>
+        <mxCell id="fEnQe29Ze3wGFFc-cCU1-50" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://www.loginradius.com/blog/static/452f4d9f7cb358e3d6224ed3aba3d5d6/03979/Istio.png;" vertex="1" parent="1">
+          <mxGeometry x="690" y="1045.31" width="121.58" height="81" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
