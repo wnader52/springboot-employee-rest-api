@@ -301,11 +301,16 @@
         <mxCell id="NnL7JSWlf4hrcEAEEY_L-84" value="" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#000000;strokeWidth=2;" parent="1" vertex="1">
           <mxGeometry x="893.51" y="800" width="170" height="110" as="geometry" />
         </mxCell>
-        <mxCell id="NnL7JSWlf4hrcEAEEY_L-85" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;AAD/Okta&amp;nbsp;&lt;/font&gt;&lt;div&gt;&lt;span style=&quot;font-size: 18px;&quot;&gt;ID Provider&lt;/span&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+        <mxCell id="NnL7JSWlf4hrcEAEEY_L-85" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;&lt;b&gt;AAD/Okta&amp;nbsp;&lt;/b&gt;&lt;/font&gt;&lt;div&gt;&lt;span style=&quot;font-size: 18px;&quot;&gt;&lt;b&gt;ID Provider&lt;/b&gt;&lt;/span&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="890" y="802" width="180" height="48" as="geometry" />
         </mxCell>
         <mxCell id="NU7qysulSMuUyZtGZs2a-46" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="NnL7JSWlf4hrcEAEEY_L-83" target="NU7qysulSMuUyZtGZs2a-45">
           <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="NU7qysulSMuUyZtGZs2a-47" value="Text" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="NU7qysulSMuUyZtGZs2a-46">
+          <mxGeometry x="-0.3439" y="3" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="NnL7JSWlf4hrcEAEEY_L-83" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://keydata.ca/assets/images/CIAM_Icon.png;" parent="1" vertex="1">
           <mxGeometry x="952.63" y="844.02" width="51.77" height="61.97" as="geometry" />
@@ -313,7 +318,7 @@
         <mxCell id="NnL7JSWlf4hrcEAEEY_L-86" value="" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#000000;strokeWidth=2;" parent="1" vertex="1">
           <mxGeometry x="893.51" y="100" width="170" height="110" as="geometry" />
         </mxCell>
-        <mxCell id="NnL7JSWlf4hrcEAEEY_L-87" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;AAD/Okta&lt;/font&gt;&lt;div&gt;&lt;font style=&quot;font-size: 18px;&quot;&gt;ID Provider&lt;/font&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+        <mxCell id="NnL7JSWlf4hrcEAEEY_L-87" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;&lt;b&gt;AAD/Okta&lt;/b&gt;&lt;/font&gt;&lt;div&gt;&lt;font style=&quot;font-size: 18px;&quot;&gt;&lt;b&gt;ID Provider&lt;/b&gt;&lt;/font&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="890" y="102" width="180" height="48" as="geometry" />
         </mxCell>
         <mxCell id="NnL7JSWlf4hrcEAEEY_L-88" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://keydata.ca/assets/images/CIAM_Icon.png;" parent="1" vertex="1">
