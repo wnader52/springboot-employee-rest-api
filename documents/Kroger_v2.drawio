@@ -5,10 +5,10 @@
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="7c3789c024ecab99-81" value="&lt;b&gt;&lt;font color=&quot;#000000&quot;&gt;Region-2 AKS Cluster&lt;/font&gt;&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;comic=0;strokeColor=#036897;strokeWidth=2;fillColor=none;fontFamily=Verdana;fontSize=28;fontColor=#6881B3;align=center;arcSize=11;verticalAlign=top;" parent="1" vertex="1">
-          <mxGeometry x="50" y="1030" width="1155" height="330" as="geometry" />
+          <mxGeometry x="80" y="1030" width="1125" height="330" as="geometry" />
         </mxCell>
         <mxCell id="7c3789c024ecab99-79" value="&lt;font color=&quot;#000000&quot;&gt;&lt;b&gt;Region-1 AKS Cluster&lt;/b&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;comic=0;strokeColor=#036897;strokeWidth=2;fillColor=none;fontFamily=Verdana;fontSize=28;fontColor=#6881B3;align=center;arcSize=11;verticalAlign=top;" parent="1" vertex="1">
-          <mxGeometry x="50" y="340" width="1155" height="340" as="geometry" />
+          <mxGeometry x="80" y="340" width="1125" height="340" as="geometry" />
         </mxCell>
         <mxCell id="NnL7JSWlf4hrcEAEEY_L-2" value="" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="1625.52" y="570" width="210" height="590" as="geometry" />
@@ -459,27 +459,16 @@
         <mxCell id="u2Rr15YxBqkdY9gxalI9-6" value="&lt;span style=&quot;font-size: 18px;&quot;&gt;&lt;b&gt;Demand&amp;nbsp;&lt;/b&gt;&lt;/span&gt;&lt;div&gt;&lt;span style=&quot;font-size: 18px;&quot;&gt;&lt;b&gt;Mgmt API&lt;/b&gt;&lt;/span&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="100" y="404" width="140" height="48" as="geometry" />
         </mxCell>
-        <mxCell id="fEnQe29Ze3wGFFc-cCU1-28" value="" style="endArrow=classic;html=1;rounded=0;strokeWidth=3;dashed=1;strokeColor=#0000CC;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" parent="1" edge="1">
+        <mxCell id="fEnQe29Ze3wGFFc-cCU1-28" value="" style="endArrow=classic;html=1;rounded=0;strokeWidth=3;dashed=1;strokeColor=#0000CC;" parent="1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="97.38999999999999" y="531.73" as="sourcePoint" />
+            <mxPoint x="80" y="530" as="sourcePoint" />
             <mxPoint x="-2.6100000000000136" y="530" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="fEnQe29Ze3wGFFc-cCU1-29" value="" style="endArrow=classic;html=1;rounded=0;strokeWidth=3;dashed=1;strokeColor=#0000CC;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" parent="1" edge="1">
+        <mxCell id="fEnQe29Ze3wGFFc-cCU1-29" value="" style="endArrow=classic;html=1;rounded=0;strokeWidth=3;dashed=1;strokeColor=#0000CC;" parent="1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="97.38999999999999" y="1211.73" as="sourcePoint" />
+            <mxPoint x="80" y="1210" as="sourcePoint" />
             <mxPoint x="-2.6100000000000136" y="1210" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="fEnQe29Ze3wGFFc-cCU1-30" value="" style="endArrow=classic;startArrow=classic;html=1;rounded=0;exitX=0;exitY=0.25;exitDx=0;exitDy=0;" parent="1" source="7c3789c024ecab99-79" edge="1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="-520" y="444.76000000000005" as="sourcePoint" />
-            <mxPoint x="-520" y="1124.8" as="targetPoint" />
-            <Array as="points">
-              <mxPoint x="-600" y="425" />
-              <mxPoint x="-600" y="790" />
-              <mxPoint x="-600" y="1125" />
-            </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="fEnQe29Ze3wGFFc-cCU1-31" value="&lt;span style=&quot;font-size: 18px;&quot;&gt;&lt;b&gt;Geo&lt;/b&gt;&lt;/span&gt;&lt;div&gt;&lt;span style=&quot;font-size: 18px;&quot;&gt;&lt;b&gt;Replication&lt;/b&gt;&lt;/span&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
