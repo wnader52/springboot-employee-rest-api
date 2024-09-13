@@ -525,6 +525,12 @@
         <mxCell id="fEnQe29Ze3wGFFc-cCU1-50" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://www.loginradius.com/blog/static/452f4d9f7cb358e3d6224ed3aba3d5d6/03979/Istio.png;" parent="1" vertex="1">
           <mxGeometry x="690" y="1045.31" width="121.58" height="81" as="geometry" />
         </mxCell>
+        <mxCell id="H4UPHf0hwZLFfZiB397L-1" value="" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;comic=0;strokeColor=#036897;strokeWidth=2;fillColor=none;fontFamily=Verdana;fontSize=28;fontColor=#6881B3;align=center;arcSize=11;verticalAlign=top;" vertex="1" parent="1">
+          <mxGeometry x="-331.6" y="340" width="290" height="340" as="geometry" />
+        </mxCell>
+        <mxCell id="H4UPHf0hwZLFfZiB397L-2" value="" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;comic=0;strokeColor=#036897;strokeWidth=2;fillColor=none;fontFamily=Verdana;fontSize=28;fontColor=#6881B3;align=center;arcSize=11;verticalAlign=top;" vertex="1" parent="1">
+          <mxGeometry x="-331.6" y="1030" width="290" height="340" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
