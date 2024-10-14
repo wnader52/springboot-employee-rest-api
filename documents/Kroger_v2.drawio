@@ -1,13 +1,13 @@
-<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36" version="24.7.12">
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36" version="24.7.13">
   <diagram name="Page-1" id="bfe91b75-5d2c-26a0-9c1d-138518896778">
-    <mxGraphModel dx="4504" dy="1474" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="1100" pageHeight="850" background="none" math="0" shadow="0">
+    <mxGraphModel dx="2584" dy="730" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="1100" pageHeight="850" background="none" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="7c3789c024ecab99-81" value="&lt;b&gt;&lt;font color=&quot;#000000&quot;&gt;Region-2 AKS Cluster&lt;/font&gt;&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;comic=0;strokeColor=#036897;strokeWidth=2;fillColor=none;fontFamily=Verdana;fontSize=28;fontColor=#6881B3;align=center;arcSize=11;verticalAlign=top;" parent="1" vertex="1">
+        <mxCell id="7c3789c024ecab99-81" value="&lt;b&gt;&lt;font color=&quot;#000000&quot;&gt;Central AKS Cluster&lt;/font&gt;&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;comic=0;strokeColor=#036897;strokeWidth=2;fillColor=none;fontFamily=Verdana;fontSize=28;fontColor=#6881B3;align=center;arcSize=11;verticalAlign=top;" parent="1" vertex="1">
           <mxGeometry x="80" y="1030" width="1125" height="330" as="geometry" />
         </mxCell>
-        <mxCell id="7c3789c024ecab99-79" value="&lt;font color=&quot;#000000&quot;&gt;&lt;b&gt;Region-1 AKS Cluster&lt;/b&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;comic=0;strokeColor=#036897;strokeWidth=2;fillColor=none;fontFamily=Verdana;fontSize=28;fontColor=#6881B3;align=center;arcSize=11;verticalAlign=top;" parent="1" vertex="1">
+        <mxCell id="7c3789c024ecab99-79" value="&lt;font color=&quot;#000000&quot;&gt;&lt;b&gt;East AKS Cluster&lt;/b&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;comic=0;strokeColor=#036897;strokeWidth=2;fillColor=none;fontFamily=Verdana;fontSize=28;fontColor=#6881B3;align=center;arcSize=11;verticalAlign=top;" parent="1" vertex="1">
           <mxGeometry x="80" y="340" width="1125" height="340" as="geometry" />
         </mxCell>
         <mxCell id="NnL7JSWlf4hrcEAEEY_L-2" value="" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
@@ -517,10 +517,10 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="fEnQe29Ze3wGFFc-cCU1-49" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://www.loginradius.com/blog/static/452f4d9f7cb358e3d6224ed3aba3d5d6/03979/Istio.png;" parent="1" vertex="1">
-          <mxGeometry x="690" y="353" width="121.58" height="81" as="geometry" />
+          <mxGeometry x="908" y="585.59" width="82.55" height="55" as="geometry" />
         </mxCell>
         <mxCell id="fEnQe29Ze3wGFFc-cCU1-50" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://www.loginradius.com/blog/static/452f4d9f7cb358e3d6224ed3aba3d5d6/03979/Istio.png;" parent="1" vertex="1">
-          <mxGeometry x="690" y="1045.31" width="121.58" height="81" as="geometry" />
+          <mxGeometry x="927" y="1271.12" width="90.27" height="60.14" as="geometry" />
         </mxCell>
         <mxCell id="NU7qysulSMuUyZtGZs2a-1" value="" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#FF00FF;" parent="1" vertex="1">
           <mxGeometry x="-550" y="370" width="230" height="290" as="geometry" />
