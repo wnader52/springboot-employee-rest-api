@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36" version="24.7.17">
   <diagram name="Page-1" id="bfe91b75-5d2c-26a0-9c1d-138518896778">
-    <mxGraphModel dx="3249" dy="1054" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="1100" pageHeight="850" background="none" math="0" shadow="0">
+    <mxGraphModel dx="2634" dy="738" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="1100" pageHeight="850" background="none" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -612,7 +612,7 @@
             <mxPoint x="-590" y="1232.57" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="9KIQ35zpFIo8nriP-EI3-10" value="" style="endArrow=none;dashed=1;html=1;rounded=0;strokeWidth=3;strokeColor=#FF00FF;" parent="1" edge="1">
+        <mxCell id="9KIQ35zpFIo8nriP-EI3-10" value="" style="endArrow=none;dashed=1;html=1;rounded=0;strokeWidth=3;strokeColor=#FF00FF;entryX=0.074;entryY=0.529;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" edge="1" target="9KIQ35zpFIo8nriP-EI3-1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="-642" y="418" as="sourcePoint" />
             <mxPoint x="-592" y="418" as="targetPoint" />
@@ -703,10 +703,10 @@
           <mxGeometry x="64" y="161" width="1153" height="440" as="geometry" />
         </mxCell>
         <mxCell id="wvrAUA1qtMvGwRBn2h33-39" value="&lt;font color=&quot;#000000&quot;&gt;&lt;b&gt;East VSubnet_2&lt;/b&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;comic=0;strokeColor=default;strokeWidth=2;fillColor=none;fontFamily=Verdana;fontSize=28;fontColor=#6881B3;align=center;arcSize=11;verticalAlign=top;glass=0;dashed=1;" vertex="1" parent="1">
-          <mxGeometry x="-606" y="160" width="569" height="440" as="geometry" />
+          <mxGeometry x="-610" y="160" width="573" height="440" as="geometry" />
         </mxCell>
         <mxCell id="wvrAUA1qtMvGwRBn2h33-41" value="&lt;font color=&quot;#000000&quot;&gt;&lt;b&gt;East Vnet&lt;/b&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;comic=0;strokeColor=default;strokeWidth=2;fillColor=none;fontFamily=Verdana;fontSize=28;fontColor=#6881B3;align=center;arcSize=11;verticalAlign=top;glass=0;dashed=1;" vertex="1" parent="1">
-          <mxGeometry x="-630" y="113" width="1870" height="498" as="geometry" />
+          <mxGeometry x="-631" y="113" width="1871" height="498" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
