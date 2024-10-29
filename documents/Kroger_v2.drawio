@@ -711,14 +711,14 @@
         <mxCell id="wvrAUA1qtMvGwRBn2h33-41" value="&lt;font color=&quot;#000000&quot;&gt;&lt;b&gt;East Vnet&lt;/b&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;comic=0;strokeColor=#120fe6;strokeWidth=2;fillColor=none;fontFamily=Verdana;fontSize=28;fontColor=#6881B3;align=center;arcSize=11;verticalAlign=top;glass=0;dashed=1;" vertex="1" parent="1">
           <mxGeometry x="-631" y="113" width="1871" height="503" as="geometry" />
         </mxCell>
-        <mxCell id="wvrAUA1qtMvGwRBn2h33-42" value="&lt;b&gt;&lt;font color=&quot;#000000&quot;&gt;Central VSubnet_2&lt;/font&gt;&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;comic=0;strokeColor=#036897;strokeWidth=2;fillColor=none;fontFamily=Verdana;fontSize=28;fontColor=#6881B3;align=center;arcSize=11;verticalAlign=top;dashed=1;" vertex="1" parent="1">
+        <mxCell id="wvrAUA1qtMvGwRBn2h33-42" value="&lt;b&gt;&lt;font color=&quot;#000000&quot;&gt;Central VSubnet_1&lt;/font&gt;&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;comic=0;strokeColor=#036897;strokeWidth=2;fillColor=none;fontFamily=Verdana;fontSize=28;fontColor=#6881B3;align=center;arcSize=11;verticalAlign=top;dashed=1;" vertex="1" parent="1">
           <mxGeometry x="60" y="1060" width="1177" height="400" as="geometry" />
         </mxCell>
         <mxCell id="wvrAUA1qtMvGwRBn2h33-43" value="&lt;b&gt;&lt;font color=&quot;#000000&quot;&gt;Central VSubnet_2&lt;/font&gt;&lt;/b&gt;&lt;div&gt;&lt;b&gt;&lt;font color=&quot;#000000&quot;&gt;&lt;br&gt;&lt;/font&gt;&lt;/b&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;comic=0;strokeColor=#036897;strokeWidth=2;fillColor=none;fontFamily=Verdana;fontSize=28;fontColor=#6881B3;align=center;arcSize=11;verticalAlign=top;dashed=1;" vertex="1" parent="1">
           <mxGeometry x="-607" y="1063" width="573" height="402" as="geometry" />
         </mxCell>
         <mxCell id="wvrAUA1qtMvGwRBn2h33-44" value="&lt;font color=&quot;#000000&quot;&gt;&lt;b&gt;Central Vnet&lt;/b&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;comic=0;strokeColor=#120fe6;strokeWidth=2;fillColor=none;fontFamily=Verdana;fontSize=28;fontColor=#6881B3;align=center;arcSize=11;verticalAlign=top;glass=0;dashed=1;" vertex="1" parent="1">
-          <mxGeometry x="-631" y="1016.24" width="1891" height="460.76" as="geometry" />
+          <mxGeometry x="-631" y="1008" width="1891" height="469" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
