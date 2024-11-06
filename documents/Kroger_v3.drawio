@@ -371,7 +371,7 @@
           <mxGeometry x="675" y="1317.1599999999999" width="88" height="88" as="geometry" />
         </mxCell>
         <mxCell id="wvrAUA1qtMvGwRBn2h33-41" value="&lt;font style=&quot;font-size: 18px;&quot; color=&quot;#000000&quot;&gt;&lt;b&gt;east_vnet_1&lt;/b&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;comic=0;strokeColor=#120fe6;strokeWidth=2;fillColor=none;fontFamily=Verdana;fontSize=28;fontColor=#6881B3;align=center;arcSize=11;verticalAlign=top;glass=0;dashed=1;" parent="1" vertex="1">
-          <mxGeometry x="224" y="174" width="1068" height="446" as="geometry" />
+          <mxGeometry x="224" y="176" width="1068" height="444" as="geometry" />
         </mxCell>
         <mxCell id="wvrAUA1qtMvGwRBn2h33-44" value="&lt;font style=&quot;font-size: 18px;&quot; color=&quot;#000000&quot;&gt;&lt;b style=&quot;&quot;&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;central_vnet_1&lt;/b&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;comic=0;strokeColor=#120fe6;strokeWidth=2;fillColor=none;fontFamily=Verdana;fontSize=28;fontColor=#6881B3;align=center;arcSize=11;verticalAlign=top;glass=0;dashed=1;" parent="1" vertex="1">
           <mxGeometry x="164" y="1032" width="1194" height="430.04" as="geometry" />
