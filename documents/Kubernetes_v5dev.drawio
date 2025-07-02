@@ -452,9 +452,6 @@
             <mxPoint x="597" y="-377" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="4Kg3pZ7eX15TPxQaPOJT-8" value="&lt;font color=&quot;#0000ff&quot; style=&quot;font-size: 12px;&quot;&gt;&lt;b style=&quot;&quot;&gt;https://origin-cpfr.kroger.com&lt;/b&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="768" y="-34.559999999999945" width="179" height="34.56" as="geometry" />
-        </mxCell>
         <mxCell id="4Kg3pZ7eX15TPxQaPOJT-25" value="" style="endArrow=classic;startArrow=classic;html=1;rounded=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;strokeWidth=2;strokeColor=#0000FF;" parent="1" target="C79CGUQSCZGH6ixVYhtu-76" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="554" y="957" as="sourcePoint" />
