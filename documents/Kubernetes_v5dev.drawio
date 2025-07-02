@@ -521,22 +521,22 @@
             <mxPoint x="997" y="-367" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="Pp5AKZz0qT0rNmliefW3-12" value="&lt;font style=&quot;font-size: 9px;&quot;&gt;&lt;i style=&quot;&quot;&gt;Rate Limiting&lt;/i&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
+        <mxCell id="Pp5AKZz0qT0rNmliefW3-12" value="&lt;font style=&quot;font-size: 9px;&quot;&gt;&lt;i style=&quot;&quot;&gt;Rate Limiting&lt;/i&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;align=center;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
           <mxGeometry x="498.00000000000006" y="-241.66" width="70.05" height="22.44" as="geometry" />
         </mxCell>
-        <mxCell id="Pp5AKZz0qT0rNmliefW3-13" value="&lt;font style=&quot;font-size: 9px;&quot;&gt;&lt;i style=&quot;&quot;&gt;Routing&lt;/i&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
+        <mxCell id="Pp5AKZz0qT0rNmliefW3-13" value="&lt;font style=&quot;font-size: 9px;&quot;&gt;&lt;i style=&quot;&quot;&gt;Routing&lt;/i&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;align=center;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
           <mxGeometry x="571.48" y="-241.66" width="70.05" height="22.44" as="geometry" />
         </mxCell>
-        <mxCell id="Pp5AKZz0qT0rNmliefW3-14" value="&lt;font style=&quot;font-size: 9px;&quot;&gt;&lt;i style=&quot;&quot;&gt;Load Balancing&lt;/i&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
+        <mxCell id="Pp5AKZz0qT0rNmliefW3-14" value="&lt;font style=&quot;font-size: 9px;&quot;&gt;&lt;i style=&quot;&quot;&gt;Load Balancing&lt;/i&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;align=center;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
           <mxGeometry x="645" y="-241.66" width="70.05" height="22.44" as="geometry" />
         </mxCell>
-        <mxCell id="Pp5AKZz0qT0rNmliefW3-15" value="&lt;font style=&quot;font-size: 9px;&quot;&gt;&lt;i style=&quot;&quot;&gt;Caching&lt;/i&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
+        <mxCell id="Pp5AKZz0qT0rNmliefW3-15" value="&lt;font style=&quot;font-size: 9px;&quot;&gt;&lt;i style=&quot;&quot;&gt;Caching&lt;/i&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;align=center;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
           <mxGeometry x="498" y="-215" width="70.05" height="22.44" as="geometry" />
         </mxCell>
-        <mxCell id="Pp5AKZz0qT0rNmliefW3-16" value="&lt;font style=&quot;font-size: 9px;&quot;&gt;&lt;i style=&quot;&quot;&gt;Authentication&lt;/i&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
+        <mxCell id="Pp5AKZz0qT0rNmliefW3-16" value="&lt;font style=&quot;font-size: 9px;&quot;&gt;&lt;i style=&quot;&quot;&gt;Authentication&lt;/i&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;align=center;fillColor=#a0522d;fontColor=#ffffff;strokeColor=#6D1F00;" vertex="1" parent="1">
           <mxGeometry x="571.48" y="-215" width="70.05" height="22.44" as="geometry" />
         </mxCell>
-        <mxCell id="Pp5AKZz0qT0rNmliefW3-17" value="&lt;font style=&quot;font-size: 9px;&quot;&gt;&lt;i style=&quot;&quot;&gt;Authorization&lt;/i&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
+        <mxCell id="Pp5AKZz0qT0rNmliefW3-17" value="&lt;font style=&quot;font-size: 9px;&quot;&gt;&lt;i style=&quot;&quot;&gt;Authorization&lt;/i&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;align=center;fillColor=#b1ddf0;strokeColor=#10739e;" vertex="1" parent="1">
           <mxGeometry x="645" y="-215" width="70.05" height="22.44" as="geometry" />
         </mxCell>
         <mxCell id="C79CGUQSCZGH6ixVYhtu-90" value="&lt;b&gt;Backend Pool&lt;/b&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
