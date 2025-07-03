@@ -240,11 +240,11 @@
         <mxCell id="Pp5AKZz0qT0rNmliefW3-1" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="C79CGUQSCZGH6ixVYhtu-113">
           <mxGeometry x="-113.86" y="274" width="302" height="195" as="geometry" />
         </mxCell>
-        <mxCell id="C79CGUQSCZGH6ixVYhtu-109" value="&lt;b&gt;Broadcom APIM&lt;/b&gt;&lt;div&gt;&lt;b&gt;API Gateway&lt;/b&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="C79CGUQSCZGH6ixVYhtu-113" vertex="1">
-          <mxGeometry x="-68.22000000000001" y="280" width="121" height="45.5" as="geometry" />
+        <mxCell id="C79CGUQSCZGH6ixVYhtu-109" value="&lt;b&gt;&lt;font style=&quot;font-size: 14px;&quot;&gt;Broadcom APIM&lt;/font&gt;&lt;/b&gt;&lt;div&gt;&lt;b&gt;&lt;font style=&quot;font-size: 14px;&quot;&gt;API Gateway&lt;/font&gt;&lt;/b&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="C79CGUQSCZGH6ixVYhtu-113" vertex="1">
+          <mxGeometry x="-76" y="280" width="128.78" height="56" as="geometry" />
         </mxCell>
         <mxCell id="C79CGUQSCZGH6ixVYhtu-108" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://symbols.getvecta.com/stencil_28/6_application-gateway.ab007e631b.png;rotation=0;" parent="C79CGUQSCZGH6ixVYhtu-113" vertex="1">
-          <mxGeometry x="71.77999999999999" y="278" width="57" height="57" as="geometry" />
+          <mxGeometry x="71.78" y="278" width="69" height="69" as="geometry" />
         </mxCell>
         <mxCell id="Pp5AKZz0qT0rNmliefW3-22" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="C79CGUQSCZGH6ixVYhtu-113">
           <mxGeometry relative="1" as="geometry">
