@@ -468,7 +468,7 @@
         <mxCell id="Pp5AKZz0qT0rNmliefW3-100" value="&lt;b&gt;Internal Tools&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="609.5" y="-930" width="89" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="Pp5AKZz0qT0rNmliefW3-104" value="&lt;b&gt;Users&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="Pp5AKZz0qT0rNmliefW3-104" value="&lt;b&gt;API Users&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="761.18" y="-930" width="80" height="22" as="geometry" />
         </mxCell>
       </root>
